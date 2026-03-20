@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+ai_engine/model/
+*.pt
+*.bin
+*.safetensors
+*.pth

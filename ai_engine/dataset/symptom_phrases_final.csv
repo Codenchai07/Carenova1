@@ -1,0 +1,75 @@
+symptom,phrase
+fever,high temperature
+fever,feeling feverish
+fever,running a fever
+fever,i have fever
+headache,my head aches
+headache,head hurts
+headache,severe headache
+headache,pain in head
+chest_pain,pressure in chest
+chest_pain,chest tightness
+chest_pain,pain in chest
+shortness_of_breath,out of breath
+shortness_of_breath,hard to breathe
+shortness_of_breath,difficulty breathing
+breathlessness,unable to breathe properly
+breathlessness,feeling breathless
+cough,persistent cough
+cough,dry cough
+cough,coughing a lot
+cold,common cold symptoms
+cold,caught a cold
+runny_nose,nose is running
+runny_nose,watery nose
+nasal_congestion,blocked nose
+nasal_congestion,stuffy nose
+sore_throat,throat pain
+sore_throat,scratchy throat
+diarrhea,frequent diarrhea
+diarrhea,loose motions
+vomiting,throwing up
+vomiting,feeling like vomiting
+nausea,sick to stomach
+nausea,feeling nauseous
+abdominal_pain,pain in abdomen
+abdominal_pain,lower belly pain
+stomach_pain,pain in stomach
+stomach_pain,stomach ache
+fatigue,feeling exhausted
+fatigue,extreme tiredness
+weakness,low strength
+weakness,body feels weak
+dizziness,lightheaded
+dizziness,feeling dizzy
+joint_pain,pain in joints
+joint_pain,joint aches
+body_pain,whole body pain
+body_pain,muscle pain
+itching,itchy skin
+itching,skin itching
+rash,red rash
+rash,skin rash
+redness,skin redness
+redness,red patches
+swelling,swollen area
+swelling,body swelling
+burning_sensation,burning pain
+burning_sensation,burning feeling
+sneezing,sneezing continuously
+sneezing,frequent sneezing
+breathlessness,feel breathless
+breathlessness,i feel breathless
+breathlessness,feeling breathless
+breathlessness,very breathless
+vomiting,nauseous
+vomiting,feel nauseous
+vomiting,i feel nauseous
+chest_pain,chest is tight
+chest_pain,tight chest
+chest_pain,chest tightness
+chest_pain,my chest is tight
+nausea,nausea
+nausea,feel nauseous
+nausea,feeling nauseous
+nausea,queasy

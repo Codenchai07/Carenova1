@@ -1,0 +1,13 @@
+precaution_id,symptom_id,severity_level,precaution_text
+P001,headache,low,Avoid prolonged screen time and stay hydrated.
+P002,headache,medium,Rest in a quiet environment and manage stress levels.
+P003,headache,high,Seek immediate medical care if headache is sudden or severe.
+P004,fever,low,Drink plenty of fluids and monitor body temperature.
+P005,fever,medium,Avoid crowded places and ensure adequate rest.
+P006,fever,high,Seek urgent medical attention if fever is very high or persistent.
+P007,cough,low,Avoid cold air and stay hydrated.
+P008,cough,medium,Cover your mouth when coughing and avoid irritants.
+P009,cough,high,Consult a doctor if cough is accompanied by chest pain or blood.
+P010,abdominal_pain,low,Eat light meals and avoid spicy foods.
+P011,abdominal_pain,medium,Avoid heavy meals and monitor pain progression.
+P012,abdominal_pain,high,Seek immediate medical help if pain is severe or worsening.

@@ -1,0 +1,5902 @@
+[
+  {
+    "text": "i have fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fever",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fever",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fever",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fever",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fever",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fever",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fever",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fever",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fever",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fever",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fever",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fever",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fever",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fever",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fever",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fever",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fever",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fever",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fever",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fever",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fever for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fever",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from headache",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to headache",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of headache",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild headache",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant headache",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from headache",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to headache",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of headache",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild headache",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant headache",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from headache",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to headache",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of headache",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild headache",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant headache",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from headache",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to headache",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of headache",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe headache",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild headache",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "headache for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant headache",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from chest pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to chest pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of chest pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild chest pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant chest pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from chest pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to chest pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of chest pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild chest pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant chest pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from chest pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to chest pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of chest pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe chest pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild chest pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "chest pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant chest pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from shortness of breath",
+    "entities": [
+      {
+        "start": 20,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to shortness of breath",
+    "entities": [
+      {
+        "start": 16,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of shortness of breath",
+    "entities": [
+      {
+        "start": 12,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild shortness of breath",
+    "entities": [
+      {
+        "start": 5,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant shortness of breath",
+    "entities": [
+      {
+        "start": 9,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from shortness of breath",
+    "entities": [
+      {
+        "start": 20,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to shortness of breath",
+    "entities": [
+      {
+        "start": 16,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of shortness of breath",
+    "entities": [
+      {
+        "start": 12,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild shortness of breath",
+    "entities": [
+      {
+        "start": 5,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant shortness of breath",
+    "entities": [
+      {
+        "start": 9,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from shortness of breath",
+    "entities": [
+      {
+        "start": 20,
+        "end": 39,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to shortness of breath",
+    "entities": [
+      {
+        "start": 16,
+        "end": 35,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of shortness of breath",
+    "entities": [
+      {
+        "start": 12,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe shortness of breath",
+    "entities": [
+      {
+        "start": 7,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild shortness of breath",
+    "entities": [
+      {
+        "start": 5,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "shortness of breath for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant shortness of breath",
+    "entities": [
+      {
+        "start": 9,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from breathlessness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to breathlessness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of breathlessness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild breathlessness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "breathlessness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "breathlessness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant breathlessness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from breathlessness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to breathlessness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of breathlessness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe breathlessness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild breathlessness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "breathlessness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "breathlessness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant breathlessness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from cough",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to cough",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of cough",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild cough",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant cough",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from cough",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to cough",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of cough",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild cough",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant cough",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from cough",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to cough",
+    "entities": [
+      {
+        "start": 16,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of cough",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe cough",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild cough",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cough for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant cough",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from cold",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to cold",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of cold",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild cold",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cold since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cold for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant cold",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from cold",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to cold",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of cold",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe cold",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild cold",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cold since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "cold for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant cold",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from runny nose",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to runny nose",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of runny nose",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild runny nose",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "runny nose since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "runny nose for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant runny nose",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from runny nose",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to runny nose",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of runny nose",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe runny nose",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild runny nose",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "runny nose since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "runny nose for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant runny nose",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from nasal congestion",
+    "entities": [
+      {
+        "start": 20,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to nasal congestion",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of nasal congestion",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild nasal congestion",
+    "entities": [
+      {
+        "start": 5,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nasal congestion since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nasal congestion for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant nasal congestion",
+    "entities": [
+      {
+        "start": 9,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from nasal congestion",
+    "entities": [
+      {
+        "start": 20,
+        "end": 36,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to nasal congestion",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of nasal congestion",
+    "entities": [
+      {
+        "start": 12,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe nasal congestion",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild nasal congestion",
+    "entities": [
+      {
+        "start": 5,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nasal congestion since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nasal congestion for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant nasal congestion",
+    "entities": [
+      {
+        "start": 9,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from sore throat",
+    "entities": [
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to sore throat",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of sore throat",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild sore throat",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sore throat since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sore throat for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant sore throat",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from sore throat",
+    "entities": [
+      {
+        "start": 20,
+        "end": 31,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to sore throat",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of sore throat",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe sore throat",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild sore throat",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sore throat since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sore throat for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant sore throat",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from diarrhea",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to diarrhea",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of diarrhea",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild diarrhea",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant diarrhea",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from diarrhea",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to diarrhea",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of diarrhea",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe diarrhea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild diarrhea",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "diarrhea for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant diarrhea",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from vomiting",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to vomiting",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of vomiting",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild vomiting",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "vomiting since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "vomiting for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant vomiting",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from vomiting",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to vomiting",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of vomiting",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe vomiting",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild vomiting",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "vomiting since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "vomiting for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant vomiting",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from nausea",
+    "entities": [
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to nausea",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of nausea",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild nausea",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nausea since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nausea for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant nausea",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from nausea",
+    "entities": [
+      {
+        "start": 20,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to nausea",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of nausea",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe nausea",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild nausea",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nausea since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "nausea for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant nausea",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from abdominal pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to abdominal pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of abdominal pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild abdominal pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant abdominal pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from abdominal pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to abdominal pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of abdominal pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe abdominal pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild abdominal pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "abdominal pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant abdominal pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from stomach pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to stomach pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of stomach pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild stomach pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "stomach pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "stomach pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant stomach pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from stomach pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 32,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to stomach pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of stomach pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe stomach pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild stomach pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "stomach pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "stomach pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant stomach pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fatigue",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fatigue",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fatigue",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fatigue",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fatigue since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fatigue for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fatigue",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from fatigue",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to fatigue",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of fatigue",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe fatigue",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild fatigue",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fatigue since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "fatigue for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant fatigue",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from weakness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to weakness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of weakness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild weakness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "weakness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "weakness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant weakness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from weakness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to weakness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of weakness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe weakness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild weakness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "weakness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "weakness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant weakness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from dizziness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to dizziness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of dizziness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild dizziness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "dizziness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "dizziness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant dizziness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from dizziness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to dizziness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of dizziness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe dizziness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild dizziness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "dizziness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "dizziness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant dizziness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from joint pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to joint pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of joint pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild joint pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant joint pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from joint pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to joint pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of joint pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe joint pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild joint pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "joint pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant joint pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from body pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to body pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of body pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild body pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "body pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "body pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant body pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from body pain",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to body pain",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of body pain",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe body pain",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild body pain",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "body pain since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "body pain for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant body pain",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from itching",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to itching",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of itching",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild itching",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "itching since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "itching for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant itching",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from itching",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to itching",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of itching",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe itching",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild itching",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "itching since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "itching for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant itching",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from rash",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to rash",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of rash",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild rash",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "rash since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "rash for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant rash",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from rash",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to rash",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of rash",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe rash",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild rash",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "rash since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "rash for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant rash",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from redness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to redness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of redness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild redness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "redness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "redness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant redness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from redness",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to redness",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of redness",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe redness",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild redness",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "redness since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "redness for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant redness",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from swelling",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to swelling",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of swelling",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild swelling",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "swelling since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "swelling for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant swelling",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from swelling",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to swelling",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of swelling",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe swelling",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild swelling",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "swelling since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "swelling for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant swelling",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from burning sensation",
+    "entities": [
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to burning sensation",
+    "entities": [
+      {
+        "start": 16,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of burning sensation",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild burning sensation",
+    "entities": [
+      {
+        "start": 5,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "burning sensation since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "burning sensation for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant burning sensation",
+    "entities": [
+      {
+        "start": 9,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from burning sensation",
+    "entities": [
+      {
+        "start": 20,
+        "end": 37,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to burning sensation",
+    "entities": [
+      {
+        "start": 16,
+        "end": 33,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of burning sensation",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe burning sensation",
+    "entities": [
+      {
+        "start": 7,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild burning sensation",
+    "entities": [
+      {
+        "start": 5,
+        "end": 22,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "burning sensation since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "burning sensation for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant burning sensation",
+    "entities": [
+      {
+        "start": 9,
+        "end": 26,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from sneezing",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to sneezing",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of sneezing",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild sneezing",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sneezing since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sneezing for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant sneezing",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i have sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i am suffering from sneezing",
+    "entities": [
+      {
+        "start": 20,
+        "end": 28,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "i feel sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "pain related to sneezing",
+    "entities": [
+      {
+        "start": 16,
+        "end": 24,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "symptoms of sneezing",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "severe sneezing",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "mild sneezing",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sneezing since yesterday",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "sneezing for two days",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "SYMPTOM"
+      }
+    ]
+  },
+  {
+    "text": "constant sneezing",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "SYMPTOM"
+      }
+    ]
+  }
+]
