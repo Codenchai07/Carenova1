@@ -21,7 +21,7 @@ try:
 except Exception as e:
     print("❌ MongoDB connection failed:", e)
 
-db = client[DB_NAME]
+db = client["carenova"]
 
 users = db["users"]
 doctors = db["doctors"]
